@@ -1,11 +1,3 @@
-//
-//  SwipeTableViewController.swift
-//  Todoey
-//
-//  Created by Stefka Krachunova on 15.06.24.
-//  Copyright © 2024 App Brewery. All rights reserved.
-//
-
 import UIKit
 import SwipeCellKit
 
